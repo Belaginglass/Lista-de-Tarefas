@@ -20,4 +20,4 @@ O objetivo deste projeto é praticar minhas habilidades em JavaScript, especialm
 
 ## 🌐 Acesso ao Projeto
 
-Este projeto está hospedado no GitHub Pages. Você pode acessá-lo através deste link: ()
+Este projeto está hospedado no GitHub Pages. Você pode acessá-lo através deste link: (https://belaginglass.github.io/Lista-de-Tarefas/)
